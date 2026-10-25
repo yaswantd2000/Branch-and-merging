@@ -1,2 +1,19 @@
 list of all tools:
-
+linux
+shell scripting
+git 
+maven
+nexus
+tomcat
+jenkins
+docker
+k8s
+ansible
+terraform
+promethus
+grafana
+ELK
+log stack
+AWS
+jira
+servicenow
